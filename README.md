@@ -18,15 +18,13 @@ Image Generator is an Android application built with Kotlin that utilizes AI mod
 
 | Flux Model | President Model | Stable Diffusion |
 |------------|----------------|------------------|
-| ![Flux](![imgen](https://github.com/user-attachments/assets/88ee0b39-1117-48b7-9373-72feb371da90)
-) | ![President](![imgen2](https://github.com/user-attachments/assets/5c9252c3-3c95-4e8a-bd8f-bf0a34acdc39)
-) | ![Stable Diffusion](![imgen3](https://github.com/user-attachments/assets/a6e5f4c3-af0b-46f6-b702-b276ae283b17)
-) |
+| ![Flux](https://github.com/user-attachments/assets/88ee0b39-1117-48b7-9373-72feb371da90) | ![President](https://github.com/user-attachments/assets/5c9252c3-3c95-4e8a-bd8f-bf0a34acdc39) | ![Stable Diffusion](https://github.com/user-attachments/assets/a6e5f4c3-af0b-46f6-b702-b276ae283b17) |
+
 
 ## 🚀 Getting Started
 ### 1️⃣ Clone Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone (https://github.com/ADMusab12/Image-Generation.git)
 ```
 ### 2️⃣ Setup Hugging Face API Key
 1. Go to [Hugging Face](https://huggingface.co/)
