@@ -24,7 +24,7 @@ Image Generator is an Android application built with Kotlin that utilizes AI mod
 ## 🚀 Getting Started
 ### 1️⃣ Clone Repository
 ```sh
-git clone (https://github.com/ADMusab12/Image-Generation.git)
+https://github.com/ADMusab12/Image-Generation.git
 ```
 ### 2️⃣ Setup Hugging Face API Key
 1. Go to [Hugging Face](https://huggingface.co/)
